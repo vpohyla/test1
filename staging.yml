@@ -1,0 +1,8 @@
+---
+
+- hosts: staging
+
+  roles:
+    - common
+    - docker
+    - nginx
