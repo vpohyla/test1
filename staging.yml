@@ -7,3 +7,4 @@
     - docker
     - nginx
     - nagios
+    - eugene_service
